@@ -11,4 +11,4 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 
 | Problem Name       | Language | Level    | LeetCode Link                                              | Solution Link                         |
 |--------------------|----------|----------|------------------------------------------------------------|---------------------------------------|
-| Two Sum            | Python   | Easy     | [Problem](https://leetcode.com/problems/two-sum/)          | [Solution](./solutions/two_sum.py)   |
+| Two Sum            | Python   | Meduiem     | [Problem]([https://leetcode.com/problems/two-sum/](https://leetcode.com/problems/increasing-triplet-subsequence/?envType=study-plan-v2&envId=leetcode-75))          | [Solution]([./Increasing Triplet Subsequence.py](https://github.com/mohamedmeqlad99/leet-code/blob/main/Increasing%20Triplet%20Subsequence.py))   |
