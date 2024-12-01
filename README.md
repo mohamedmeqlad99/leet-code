@@ -1,16 +1,11 @@
-
-Here’s a sample README.md file for your LeetCode solutions repository:
-
-markdown
-Copy code
 # LeetCode Solutions
 
-This repository contains my solutions to various LeetCode problems. Each solution is categorized by problem name, programming language, difficulty level, and includes links to the problem and the solution.
+This repository contains my solutions to various LeetCode problems. Each solution is organized by problem name, programming language, difficulty level, and includes links to both the problem on LeetCode and the solution in this repository.
 
 ## Table of Contents
 
-| Problem Name       | Language | Level    | LeetCode Link                                              | Solution Link                         |
-|--------------------|----------|----------|------------------------------------------------------------|---------------------------------------|
-| Two Sum            | Python   | Meduiem     | [Problem]([https://leetcode.com/problems/two-sum/](https://leetcode.com/problems/increasing-triplet-subsequence/?envType=study-plan-v2&envId=leetcode-75))          | [Solution]([./Increasing Triplet Subsequence.py](https://github.com/mohamedmeqlad99/leet-code/blob/main/Increasing%20Triplet%20Subsequence.py))   |
-| String Compression           | Python   | Meduiem     | [Problem]([[https://leetcode.com/problems/two-sum/](https://leetcode.com/problems/increasing-triplet-subsequence/?envType=study-plan-v2&envId=leetcode-75](https://leetcode.com/problems/string-compression/?envType=study-plan-v2&envId=leetcode-75)))          | [Solution]([./String Compression.py](https://github.com/mohamedmeqlad99/leet-code/blob/main/Increasing%20Triplet%20Subsequence.py))   |
-| container with most water          | Python   | Meduiem     | [Problem]([[https://leetcode.com/problems/two-sum/](https://leetcode.com/problems/increasing-triplet-subsequence/?envType=study-plan-v2&envId=leetcode-75](https://leetcode.com/problems/string-compression/?envType=study-plan-v2&envId=leetcode-75)))          | [Solution]([./String Compression.py]([https://github.com/mohamedmeqlad99/leet-code/blob/main/Increasing%20Triplet%20Subsequence.py](https://github.com/mohamedmeqlad99/leet-code/blob/main/container%20with%20most%20water.py)))   |
+| Problem Name                 | Language | Level    | LeetCode Link                                                                                 | Solution Link                                                                                  |
+|------------------------------|----------|----------|-----------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|
+| Two Sum                      | Python   | Medium   | [Problem](https://leetcode.com/problems/two-sum/)                                             | [Solution](https://github.com/mohamedmeqlad99/leet-code/blob/main/Two%20Sum.py)                |
+| String Compression           | Python   | Medium   | [Problem](https://leetcode.com/problems/string-compression/?envType=study-plan-v2&envId=leetcode-75) | [Solution](https://github.com/mohamedmeqlad99/leet-code/blob/main/String%20Compression.py)     |
+| Container with Most Water    | Python   | Medium   | [Problem](https://leetcode.com/problems/container-with-most-water/)                           | [Solution](https://github.com/mohamedmeqlad99/leet-code/blob/main/Container%20with%20Most%20Water.py) |
