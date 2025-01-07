@@ -6,8 +6,9 @@ class Solution(object):
                 if i == j:
                     continue
                 if words[i] in words[j]:
-                    res.append(words[i])
-                    break
+                    if words[i] not in res:
+                     res.append(words[i])
+                   
         return res
 
         
