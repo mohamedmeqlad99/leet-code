@@ -1,0 +1,13 @@
+from collections import Counter
+
+class Solution(object):
+    def canConstruct(self, s, k):
+        c = Counter(s)
+        cc = 0
+        for i in c.values():
+            if i % 2 == 1:
+                cc += 1
+        if len(s) < k:
+            return False
+        return cc <= k
+        
